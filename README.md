@@ -2,7 +2,7 @@
 
 ### Hi there 👋, my name is Suraj Pai
 #### Fullstack Developer
-![Fullstack Developer](https://1drv.ms/i/s!ApE6nrcmWXDhjYQoaZKu6V6TT0jomQ?e=jWHYI4)
+![Fullstack Developer](https://github.com/paisuraj/paisuraj/blob/main/IMG-20220130-WA0002.jpg)
 
 I'm a 4th year Electrical and Computer Engineering student from the University of Texas at Austin! Interested in software engineering, data science, and machine learning. I enjoy listening to Naval Ravikant and Peter Thiel podcast episodes.
 
