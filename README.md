@@ -14,3 +14,6 @@ Skills: Python / REACT / JS / HTML / CSS / Flask
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/paisuraj)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suraj-r-pai/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](/@surajpai_29723)  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paisuraj&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
