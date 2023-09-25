@@ -5,7 +5,7 @@
 ![Fullstack Developer](![image](https://user-images.githubusercontent.com/12988830/233197378-952ddd21-a00d-4e0c-817e-c1f92c343edb.png)
 )
 
-I'm a 4th year Electrical and Computer Engineering student from the University of Texas at Austin! Interested in software engineering, data science, and machine learning. I enjoy listening to Naval Ravikant and Peter Thiel podcast episodes.
+I'm a graduate student from the University of Texas at Austin! Interested in software engineering, data science, and machine learning. I enjoy listening to Naval Ravikant and Peter Thiel podcast episodes.
 
 Skills: Python / REACT / JS / HTML / CSS / Flask
 
